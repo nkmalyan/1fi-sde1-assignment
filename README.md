@@ -7,7 +7,7 @@ filtering, automated tests, CI, and optional Razorpay checkout.
 
 ## 🎥 Demo
 
-📹 **Video walkthrough:** [add your Google Drive / YouTube link here — must show the demo, backend, and database]
+📹 **Video walkthrough:** [https://drive.google.com/file/d/1JGgBKFSmhwfaScZA4ALukjyjWW-Y_DDp/view?usp=sharing]
 
 🌐 **Live demo:** [ https://frontend-sigma-eight-79.vercel.app ]
 
