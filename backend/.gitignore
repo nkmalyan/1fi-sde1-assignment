@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+
+# Generated database files — created by `npm run seed`, not source data
+db/*.sqlite
+db/*.sqlite-shm
+db/*.sqlite-wal

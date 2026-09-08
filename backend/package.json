@@ -1,0 +1,26 @@
+{
+  "name": "1fi-sde1-backend",
+  "version": "1.0.0",
+  "description": "1Fi SDE1 Assignment - Express + SQLite backend serving product and EMI plan data",
+  "main": "server.js",
+  "scripts": {
+    "seed": "node db/seed.js",
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "npm run seed --silent && jest --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "razorpay": "^2.9.8"
+  },
+  "devDependencies": {
+    "jest": "^30.5.1",
+    "supertest": "^7.2.2"
+  }
+}
